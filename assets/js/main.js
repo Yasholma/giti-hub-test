@@ -60,7 +60,7 @@ const username = document.querySelector(".username");
 const bio = document.querySelector(".bio");
 const repositories = document.getElementById("repositories");
 const preloader = document.getElementById("preloader");
-const token = "9e014ced796eadbf4928af81b25616821fcfe3d6";
+const token = atob("ZGEwZDQyOWJjZmUyMjBjMTk5MzI1Y2YxZWY5OTljZmFkYjc3MDJhNg==");
 const stickySection = document.querySelector(".sticky-section");
 
 const months = [
